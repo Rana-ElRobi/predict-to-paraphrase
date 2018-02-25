@@ -1,0 +1,376 @@
+can you tell me more about the co-creation room?,about
+If I have comments; what should I do?,about
+how to get a taxi here,about
+how can I give you feedback,about
+how can I apply,about
+how can I send my feedback,about
+I want to visit Dubai attractions please,about
+Do I need to make prior reservation before practicing activities in Dubai?,about
+Do I need to reserve before any activity here in Dubai ?,about
+It is my first visit to Dubai; where can I go ?,about
+what are the attractions of dubai?,about
+What are the most popular activities in Dubai?,about
+What do you know about ?,about
+what about dubai restaurant,about
+What are activities I can do in Dubai,about
+Is there a bank In the tower?,about
+How can I arrange a taxi (transportation) from?,about
+Is there a saloon/spa in the towers?,about
+Whats the closest hospital/ER to me?,about
+What are places that I must visit in Dubai?,about
+What's the top 5 burger places in Dubai?,about
+What are the restaurants available in the towers?,about
+what are the food at the towers,about
+What should I do if I have a complaint?,about
+If I have feedback; what should I do?,about
+What are the rates for Emirates towers hotel room,about
+What is the Youth hub?,about
+What is the edge of government?,about
+What is the government accelerator?,about
+Whats your plans Watson?,about
+What is the co-creation room used for?,about
+what is new about the bundles,about
+Whats new about this center?,about
+What are the bundles offered in this center?,about
+what offers does the center have,about
+What are the parking fees in the basement parking,about
+How much fees do I have to pay?,about
+what are the fees needed?,about
+what are the fees?,about
+how much do I have to pay?,about
+what should I pay?,about
+What is 2071?,about
+What are the available channels for this service?,AccessService
+How can I log-in to the portal?,AccessService
+How can I subscribe to the Mabrouk service?,AccessService
+how can I login to the mabrook service?,AccessService
+Is there a some online way to check out the service?,AccessService
+How can I access the mabrouk service?,AccessService
+Can I get additional Copies from my birth certificate?,additionalCopies
+I need to get additional copies of the issued birth certificate,additionalCopies
+I want more copies of the birth certificate that is going to be delivered,additionalCopies
+How can I request more copies of the papers that are going to be issued through Mabrook service?,additionalCopies
+I need to request more than one copy of the official documents that are going to be issued through the service. what should I do,additionalCopies
+Where can I have local food in Dubai?,address
+where can I practice some interesting activities here in Dubai?,address
+Where can I go for shopping,address
+I want to book a cocreation session,address
+Where can I go for Italian food in Dubai?,address
+This is my first time in Dubai; where shall I go?,address
+How to go to the shopping mall,address
+How can we reach the towers,address
+How can I go to restaurant,address
+Where can I arrange a taxi,address
+Where are the shopping centers in Dubai?,address
+where are the shopping malls in Dubai?,address
+What can I do in Emirates?,address
+where can I make shopping in Dubai?,address
+Where can I have coffee in the towers,address
+Where can I renew my driving license?,address
+Where can I go shopping in Dubai?,address
+What are your favorite Japanese restaurants in Dubai?,address
+is the bith certificate in English language,CanBeIssued
+Can the birth certificate be issued in English?,CanBeIssued
+How Can I issue the birth certificate in English?,CanBeIssued
+Could the birth certificate be issued in English too?,CanBeIssued
+The Birth certificate will be in English as well?,CanBeIssued
+Will there be an English version of the Birth certificate?,CanBeIssued
+Is it possible that the birth certificate be issued in English?,CanBeIssued
+will the birth certificate be issued in English?,CanBeIssued
+I no longer want to be subscribed to mabrouk cancel my subscription please,Cancel
+can my subscription to the service be stopped or canceled at anytime?,Cancel
+Can I cancel my application?,Cancel
+Is it ok to cancel my application?,Cancel
+is it fine to cancel my application?,Cancel
+Could I cancel my application?,Cancel
+The application can be cancelled at anytime right?,Cancel
+I signed up to the service by mistake how can I undo that?,Cancel
+What are the documents needed to avail Mabrook MA Yak service bundle?,Documents
+what are the required documents to issue an ID for a local?,Documents
+What are the required documents for attesting the birth certificate?,Documents
+what are the documents needed to issue residancy?,Documents
+what are the documents required to issue an ID for an expat?,Documents
+what are the required documents to issue an ID for a GCC?,Documents
+what are the required documents to issue a passport?,Documents
+what are the documents required to add a new baby on the family book?,Documents
+what are the documents required to issue a birth certificate?,Documents
+what are the papers that I need to present for the birth certifcate issuance of my baby?,Documents
+How will I know if the documents are ready for collection?,DocumentsReady
+When can I collect all the documents?,DocumentsReady
+are you going to notify me when the birth certificate is ready?,DocumentsReady
+I am using the mabrook service now. How do I know that it's time to collect the documents?,DocumentsReady
+when exactly do I get to receive the birth certificate and the other documents?,DocumentsReady
+Can I recieve the issued documents through delivery?,DoorStepDelivery
+Please deliver the issued papers to my house.,DoorStepDelivery
+You are going to deliver the papers to my location; right?,DoorStepDelivery
+Will the papers issued through Mabrook be delivered to my doorstep?,DoorStepDelivery
+Will you deliver the service to my door step ?,DoorStepDelivery
+there is nothing i want now,ExitConversation
+I finished what I want,ExitConversation
+thank you for your help. i am done,ExitConversation
+I want to logout,ExitConversation
+I am done here,ExitConversation
+good bye,farewell
+farewell,farewell
+good night,farewell
+bye!,farewell
+byebye,farewell
+bye bye,farewell
+Have a nice day,farewell
+goodbye,farewell
+bye,farewell
+Hi,greeting
+Good morning,greeting
+Good Evening,greeting
+Good Afternoon,greeting
+Hey there,greeting
+Hello,greeting
+How is your day today?,HowAreYou
+how is it going?,HowAreYou
+How are you today?,HowAreYou
+how is your day?,HowAreYou
+how do you do?,HowAreYou
+I need to know about the security levels for my shared data during payment?,HowConfidential
+How confidential and secure the data shared during the payment?,HowConfidential
+I fear that my data can get hacked during the payment process,HowConfidential
+How do you treat my confidential payment information?,HowConfidential
+During payment how are you securing my data?,HowConfidential
+elaborate the security for my shared data during payment?,HowConfidential
+How many days will it take till I attain the service?,HowLong
+What time will it take me to recieve the issued papers by Mabrouk Service?,HowLong
+What time will it take to attain the service?,HowLong
+How long does it take for the papers to be issued by the service?,HowLong
+How long will it take to recieve the documents issued through Mabrook?,HowLong
+How long will it take me to attain Mabrook Ma Yak service?,HowLong
+How many copies of birth certificate I will get?,HowManyCopies
+How many copies of birth certificate will be issued?,HowManyCopies
+How many copies of birth certificate will I recieve?,HowManyCopies
+what are the number of Birth certificate copies that we are going to get?,HowManyCopies
+what are the number of Birth certificate copies that will be issued?,HowManyCopies
+How many birth certificate will be issued?,HowManyCopies
+Hi; My name is,identification
+What's your name?,identification
+what do you do?,identification
+How can you help me?,identification
+what is your purpose?,identification
+I am a user,identification
+I'm a customer,identification
+I am Mariam,identification
+Tell me more about youself,identification
+Who are you?,identification
+I lost my baby's birth certificate. where can I get a new one?,LostBCDocuments
+Where can I apply for a new birth certificate if it is lost?,LostBCDocuments
+Advise how to issue new Birth certificate in case I lost the original one?,LostBCDocuments
+for lost Birth certificate how can I issue new one?,LostBCDocuments
+If my birth certificate is lost  from where I can get new one?,LostBCDocuments
+Where can I issue a new birth certificate if it is lost?,LostBCDocuments
+are there any papers that I should take along while getting a new birth certificate instead of the one I lost?,LostBCDocuments
+What documents needs to be submitted to get a new birth certificate (in case it was lost)?,LostBCDocuments
+I lost the birth certificate. What documents do I need to issue a new one?,LostBCDocuments
+State the mandatory documents to get a new birth certificate instead of the one I lost,LostBCDocuments
+what do I need to bring when applying for a new birth certificate?,LostBCDocuments
+can I still use this service if I have already issued my baby's birth certificate?,makeUse
+I already issued my baby's birth certificate. Can I still make use of the Mabrook service?,makeUse
+Can I avail Mabrook Ma Yak service if I have already issued a birth certificate from the hospital?,makeUse
+How can I still benefit from this service if I have already recieved my baby's birth certificate,makeUse
+Is there a way to still make use of the Mabrook Ma Yak service if the birth certificate is already issued,makeUse
+how can I collect my documents?,recieveDocuments
+How will I recieve my official documents issued by Mabrook?,recieveDocuments
+How will collect my documents for Mabrook May Yak ?,recieveDocuments
+can anyone receive the baby documents for me?,recieveDocuments
+I want to send someone to receive the issued birth certificate is that possible?,recieveDocuments
+what should I do to receive the baby documents after they are finished?,recieveDocuments
+Is it required to have baby finger print?,Require
+Is it necessary to have baby finger print?,Require
+is finger print mandatory for the baby?,Require
+Is finger printing required for new borns?,Require
+Do we need finger print for the baby?,Require
+Do you take finger prints for newly born babies?,Require
+How else can I use smart pass?,smartpassOtherUses
+Are there other uses for smartpass other than for the Mabrook bundle?,smartpassOtherUses
+Can you tell me the benefits of smartpass outside this service?,smartpassOtherUses
+Inform me of the other uses of smart pass.,smartpassOtherUses
+How can I use smart pass aside from using it in this service?,smartpassOtherUses
+sign me up for smart pass,SmartPassRegisteration
+How can I register for SmartPass?,SmartPassRegisteration
+I need some help registering with SmartPass,SmartPassRegisteration
+how do I sign up for smartpass?,SmartPassRegisteration
+What are the available channels for SmartPass registration?,SmartPassRegisteration
+I hate you,stating
+I feel toward you,stating
+you goof,stating
+You are stupid,stating
+You are an idiot,stating
+I dont like you,stating
+I dislike you,stating
+I am late,stating
+I waited too long,stating
+I am waiting,stating
+I have an issue,stating
+I have a problem,stating
+I like the way you reply,stating
+I love you,stating
+You are not intelligent,stating
+are there any pre reqs?,StepsAndPrerequisites
+What are the pre-requisites to pick up the baby documents?,StepsAndPrerequisites
+Is there any conditions for applying to mabrouk ma yak that I should kno about?,StepsAndPrerequisites
+I am an expat. can I apply for the mabrook service?,StepsAndPrerequisites
+Who can apply for this service?,StepsAndPrerequisites
+What are the pre-requisites for this service?,StepsAndPrerequisites
+How do I know if I am eligible to apply for the mabrook service?,StepsAndPrerequisites
+When does the center open/operate,timing
+What are the timings for the co-creation room?,timing
+What time is it now in NYC,timing
+What time is it in London,timing
+When are cocreation rooms available?,timing
+What are the open hours for the center?,timing
+What are the open working hours for co creation rooms ?,timing
+What are the working hours at this center?,timing
+how do I recieve confirmation for joining mabrook?,trackApplication
+How do I know that I am now subscribed to mabrook?,trackApplication
+how can I track my application for Mabrook My Yak,trackApplication
+I want to know how my application in Mabrook is going,trackApplication
+I want to be able to keep track of my application,trackApplication
+Is there a way to track my status in Mabrook service?,trackApplication
+How can I track the application through the Mabrouk service?,trackApplication
+I want to know my status regarding the Mabrook Ma Yak bundle,trackApplication
+Is the climate good in Dubai,weather
+Is it cold in London ?,weather
+Is it hot in Shajah ?,weather
+Is it a hot weather in Abu Dhabi ?,weather
+Is it very cold in Tokyo ?,weather
+what about the weather in general,weather
+Tell me about the atmosphere in London,weather
+What is the weather in Dubai?,weather
+what about the weather in UAE?,weather
+How's the weather in Dubai?,weather
+How is the weather in MECCA,weather
+what is the fees for the bundle?,WhatFee
+how much will you charge me for the birth certificate issuance?,WhatFee
+Will you charge me to deliver Mabrook Ma Yak service to my door step ?,WhatFee
+What are the fees for issuing an ID for a local ?,WhatFee
+What are the fees for issuing an ID for a GCC?,WhatFee
+what are the fees for issuing a birth certifcate?,WhatFee
+What are the fees for issuing an ID for an expat?,WhatFee
+What are the fees for issuing a residency?,WhatFee
+What are the fees for attesting a birth certificate?,WhatFee
+How much money I need to pay for this service?,WhatFee
+What is the cost of this service?,WhatFee
+How much does this service cost?,WhatFee
+What are the fees for issuing a passport?,WhatFee
+What are the fees for adding a new baby on the family book?,WhatFee
+What are the fees charged for this service?,WhatFee
+How much will it cost me to use this service?,WhatFee
+How much will subscribing for mabrook cost me ?,WhatFee
+what is the new baby bundle.,WhatIs
+I need more information about the new baby born service,WhatIs
+Tell me about this service,WhatIs
+I want to know more about this bundled,WhatIs
+What does this bundle provide?,WhatIs
+I want to know what is the new baby born?,WhatIs
+I heard about a bundle named New Baby Born; can you tell me more?,WhatIs
+Why it is required to have smart pass account?,WhatIs
+what is smartpass?,WhatIs
+I want to know what is Mabrouk Ma Yak?,WhatIs
+Why it is necessary to have smart pass account?,WhatIs
+Why I must have smart pass account?,WhatIs
+Why do I need to have a Smart Pass account to avail this service?,WhatIs
+I heard about Smart Pass but I have no idea what it is. can you fill me in?,WhatIs
+How will the parent's name appear in the passport?,WhatName
+How will the parent�s name appear in birth certificate?,WhatName
+How will the baby name appear in the passport?,WhatName
+How will the name of the baby appear in Emirates ID Card?,WhatName
+Where the name of the baby will be located in the passport?,WhatName
+How will the name of my new born appear in the passport?,WhatName
+Elaborate how the baby name will appear in the passport?,WhatName
+How will the baby name appear in Emirates ID and Passport?,WhatName
+is the baby name in both  Emirates ID similar to passport?,WhatName
+Does the name in Emirates ID and passport identical?,WhatName
+Will the name of the baby match the one in passport?,WhatName
+Where the parent's name will be located in the passport?,WhatName
+How will the parent's name be shown in the passport?,WhatName
+Elaborate how the parent's name will appear in the passport?,WhatName
+How will the parent's name appear in birth certificate?,WhatName
+what are the channels for paying mabrook fees?,WhatPayment
+How can I pay Mabrook Ma Yak Bundle fees?,WhatPayment
+How can I pay for issuing an ID for a local?,WhatPayment
+How can I pay for issuing an ID for a GCC?,WhatPayment
+How can I pay for issuing a passport?,WhatPayment
+What payment methods are available for this service?,WhatPayment
+Can I pay for the service using my credit card?,WhatPayment
+If I want to pay in cash. where do I deposit the money?,WhatPayment
+what exactly am I supposed to pay for the Mabrook ma yak service?,WhatPayment
+How can I pay for issuing a birth certificate?,WhatPayment
+How can I pay for adding a member on the family book?,WhatPayment
+How can I pay for my subscription in Mabrook?,WhatPayment
+How can I pay for the birth certificate attestation?,WhatPayment
+How can I pay for issuing residancy?,WhatPayment
+How can I pay for issuing an ID for an expat?,WhatPayment
+Are there any reasons that may stop a passport from being issued?,WhatProblems
+When the passport can not be issued?,WhatProblems
+What are the cases where passport is not valid for issuing?,WhatProblems
+When the passport is not valid for issuing?,WhatProblems
+What are the cases where passport will not be issued?,WhatProblems
+What are the cases where the passport cannot be issued?,WhatProblems
+What services does Mabrook Ma Yak  bundle offer for Nationals?,whatServices
+What services does Mabrook Ma Yak bundle offer for Exapts?,whatServices
+what are the available services through this bundle?,whatServices
+what are the bundle services that are offered?,whatServices
+how can I make use of Mabrook ma yak as an expat?,whatServices
+how can I make use of Mabrook as a national?,whatServices
+What are the requirements for the new born photo?,WhatSpec
+What are the baby photo requirements?,WhatSpec
+state new baby born photo specs?,WhatSpec
+Does the background have to be a certain color for the baby's photo?,WhatSpec
+What are the specifications of the baby�s photo?,WhatSpec
+Are there certain specs for the photo that I should provide for the birth certificate?,WhatSpec
+Any conditions required for the baby photo?,WhatSpec
+My new baby is nearly a month old. can I still be a part of Mabrouk?,WhenAvailable
+When can this service be availed?,WhenAvailable
+When can I use the mabrook service?,WhenAvailable
+Is there a time limit for applying to this service?,WhenAvailable
+My wife is currently pregnant. when should I apply for this service for my new baby?,WhenAvailable
+Where can I find e-Dirham cards?,WherePurchase
+From where I can get e-Dirham cards?,WherePurchase
+When can I get e-Dirham Cards?,WherePurchase
+Where can I purchase e-Dirham cards?,WherePurchase
+Where can I buy e-Dirham Cards?,WherePurchase
+How do I get these e-Dirham Cards?,WherePurchase
+Whom should I call,Who
+Who shall I contact?,Who
+Who can help,Who
+who can assist,Who
+who is that,Who
+who can benefit from Mabrook Ma Yak Service?,whoBenefit
+who can make use of Mabrook Ma yak Service?,whoBenefit
+Tell me more about whose who can benefit from this service.,whoBenefit
+what are the categories that can benefit from using the service?,whoBenefit
+who can use this service?,whoBenefit
+I contact if I have a problem regarding either at home,WhoContact
+Who can I contact If I have a question or problem regarding e dirham?,WhoContact
+Who is the focal point for issues in e-Dirham card?,WhoContact
+who should I ask if had problems with payment?,WhoContact
+Who is the focal point for payment process?,WhoContact
+Whom should I contact if there are problems or concerns related to e-Dirham card?,WhoContact
+Whom should I contact if I need more details on payment process or any problems during the payment process?,WhoContact
+what is the entity responsible for residancy for expats?,WhoParticipating
+what is the entity responsible for issuing an ID for expats?,WhoParticipating
+what is the entity responsible for issuing an ID for GCC citizens?,WhoParticipating
+What governamental entities are involved in providing this service?,WhoParticipating
+Which entities are supporting this service?,WhoParticipating
+What are the entities that are supporting this service?,WhoParticipating
+What governmental entities are collaborating in this service?,WhoParticipating
+the mabrook service is supported by the government right?,WhoParticipating
+Is the Ministry of Interior supporting this service?,WhoParticipating
+what is the entity responsible for attestations?,WhoParticipating
+what is the entity responsible for amending the family book?,WhoParticipating
+what is the entity responsible for issuing an ID for locals?,WhoParticipating
+what is the entity responsible for issuing passports?,WhoParticipating
+what is the entity responsible for issuing birth certificates?,WhoParticipating
+what is the entity responsible for attesting birth certificates?,WhoParticipating
+Which entities are the participating in this service?,WhoParticipating
+Why should I register for Smart Pass to avail Mabrook Ma Yak service?,whySmartPassRegister
+why do I need to register in smartpass to use mabrook service?,whySmartPassRegister
+what is the reason that mandates using smartpass with Mabrouk ma yak service?,whySmartPassRegister
+What are the reasons that makes registering for smartpass a requirement to use this service?,whySmartPassRegister
+Why do I need to register for smart pass alongside using MAbrook service?,whySmartPassRegister
